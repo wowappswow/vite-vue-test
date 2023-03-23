@@ -258,3 +258,11 @@ function onCaptrue($event){
         </div>
     </div>
 </template>
+
+<style>
+.width-fill{
+    width: -webkit-fill-available;
+    width: -moz-available;
+    width: fill-available;
+  }
+</style>

@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as o,t as r}from"./index-6c2acd9a.js";const c={__name:"Home",setup(_){const e="home page";return(a,n)=>(s(),o("div",null,r(e)))}},i=t(c,[["__file","C:/Users/User/Desktop/project/vite-vue-test/src/views/Home.vue"]]);export{i as default};
